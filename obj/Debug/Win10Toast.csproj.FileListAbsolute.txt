@@ -1,0 +1,10 @@
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Win10Toast.Properties.Resources.resources
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Win10Toast.csproj.GenerateResource.cache
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Win10Toast.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Win10Toast.exe.config
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Win10Toast.exe
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Win10Toast.pdb
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Win10Toast.frmMain.resources
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Win10Toast.frmNotify.resources
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Win10Toast.exe
+C:\Users\mehmet.guzel\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Win10Toast.pdb
